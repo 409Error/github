@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');    
+
+body {
+    background-color: #dddddd;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1#clock {
+    font-size: 128px;
+    position: relative;
+    top: 30vh;
+    font-family: 'Indie Flower', cursive;
+    color: #434343;
+
+}
+
+#clock span {
+    text-align: left;
+    width: 35%;
+    display: inline-block;
+}
+
+.circle {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background-color: #434343;
+    border-radius: 50%;
+    position: relative;
+    top: 26vh;
+    left: 60vh;
+    margin-right: 3px;
+}
+
+.circle:hover {
+    cursor: pointer;
+}

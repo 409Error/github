@@ -1,0 +1,76 @@
+div *{
+			text-align: center;	
+			padding: 20px;
+			font-family: 'Open Sans', sans-serif;
+		}
+		.info{
+			margin: 0px;
+			padding: 0px;	
+			height: 22px;		
+		}
+		.textBox{
+			margin: auto;
+			width: 550px;
+			background-color: lightblue;
+		}
+		.textBox header{
+			color: white;
+			font-weight: 600;
+			letter-spacing: 5px;
+			text-transform: uppercase;
+		}
+		.textBox div{
+			margin: 0 10px;
+			padding: 20px;
+			font-weight: 300;
+			background-color: white;
+		}
+		footer input{
+			font-size: 30px;
+		}
+		.info .infoName{
+			width: 110px;
+			float: left;
+			font-weight: 300;
+			margin: 0 10px;
+			background-color: white;
+			padding: 0;
+		}
+		.info .infoName:last-child{
+			margin-left: 170px;
+		}
+		.floatRight{
+			float: right;
+		}
+		.floatLeft{
+			float: left;
+		}
+		.input{
+			margin-bottom: 20px;
+			padding: 20px;
+			width: 550px;
+			margin: auto;
+			text-align: left;
+		}
+		.sent{
+			padding: 0;
+			float: right;
+		}
+		.text{
+			width: 500px;
+			width: 100px;
+			resize: none;
+		}
+		textarea{
+			padding: 2px;
+			width: 470px;
+		}
+		#inputTEXT{
+			height: 90px;
+		}
+		#name{
+			height: 15px;
+		}
+		#lineText{
+			margin-top: 10px;
+		}
